@@ -8,3 +8,5 @@ Feature 002
 - work #2
 Hotfix 'breakage'
 - hotfix made
+Feature 003
+- work #1
